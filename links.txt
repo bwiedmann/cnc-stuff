@@ -1,0 +1,3 @@
+Hints see 
+http://myhobby-cnc.de/wiki/doku.php?id=myhobby-cnc:grbl-konfiguration
+https://cncwerk.de/forum/viewtopic.php?t=1652
